@@ -1,0 +1,15 @@
+/Users/budarin/Desktop/HomeWork08/bin/Debug/net6.0/HomeWork08
+/Users/budarin/Desktop/HomeWork08/bin/Debug/net6.0/HomeWork08.deps.json
+/Users/budarin/Desktop/HomeWork08/bin/Debug/net6.0/HomeWork08.runtimeconfig.json
+/Users/budarin/Desktop/HomeWork08/bin/Debug/net6.0/HomeWork08.dll
+/Users/budarin/Desktop/HomeWork08/bin/Debug/net6.0/HomeWork08.pdb
+/Users/budarin/Desktop/HomeWork08/obj/Debug/net6.0/HomeWork08.csproj.AssemblyReference.cache
+/Users/budarin/Desktop/HomeWork08/obj/Debug/net6.0/HomeWork08.GeneratedMSBuildEditorConfig.editorconfig
+/Users/budarin/Desktop/HomeWork08/obj/Debug/net6.0/HomeWork08.AssemblyInfoInputs.cache
+/Users/budarin/Desktop/HomeWork08/obj/Debug/net6.0/HomeWork08.AssemblyInfo.cs
+/Users/budarin/Desktop/HomeWork08/obj/Debug/net6.0/HomeWork08.csproj.CoreCompileInputs.cache
+/Users/budarin/Desktop/HomeWork08/obj/Debug/net6.0/HomeWork08.dll
+/Users/budarin/Desktop/HomeWork08/obj/Debug/net6.0/refint/HomeWork08.dll
+/Users/budarin/Desktop/HomeWork08/obj/Debug/net6.0/HomeWork08.pdb
+/Users/budarin/Desktop/HomeWork08/obj/Debug/net6.0/HomeWork08.genruntimeconfig.cache
+/Users/budarin/Desktop/HomeWork08/obj/Debug/net6.0/ref/HomeWork08.dll
